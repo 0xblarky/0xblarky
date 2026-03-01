@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Blarky</h1>
 <h3 align="center">A computer enthusiast from XXXXX who's interested in CyberSec.</h3>
 
-- 🔭 I’m currently working on **NextPass**
+- 🔭 I’m currently working on **No Projects In Progress Currently**
 
 - 🌱 I’m currently learning **Assembly, Fundamental of Windows OS, Concept of Network and Internet, Kernel and Kernel Drivers Development**
 
