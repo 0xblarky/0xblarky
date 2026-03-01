@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **NextPass**
 
-- 🌱 I’m currently learning **Assembly,Rust, Fundamental of Windows OS and Concept of Network and Internet**
+- 🌱 I’m currently learning **Assembly, Fundamental of Windows OS, Concept of Network and Internet, Kernel and Kernel Drivers Development**
 
 
 <p align="left">
